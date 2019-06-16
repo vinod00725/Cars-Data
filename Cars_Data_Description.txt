@@ -1,0 +1,17 @@
+The dataset has 60 observations of 8 variables, the descriptions of the variables are given below :
+  
+1) **Price** : The cost of the car
+
+2) **Country** : The country in which the car is up for sale
+
+3) **Reliability** : An ordinal metric for understanding the reliability of the car
+
+4) **Mileage** : The fuel efficiency of the car
+
+5) **Type** : A categorical variable defining the category to which the car belongs.
+
+6) **Weight** : The weight of the car
+
+7) **Displacement** : Represents the engine displacement of the car
+
+8) **HP** : Horsepower of the car, a unit that measures it's power
